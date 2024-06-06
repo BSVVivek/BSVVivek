@@ -1,4 +1,7 @@
+<!--
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFodXCC9eZPMg/profile-displaybackgroundimage-shrink_350_1400/0/1714899468329?e=1723075200&v=beta&t=jo6LXQZimSv6ZdcURgqmF1t17517AJ0jiLzGIXj7ZV8)](https://rishavchanda.io)
+-->
+
 <h1 align="center">Hi 👋, I'm Burri Sri Venkat Vivek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!--
