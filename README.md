@@ -1,7 +1,12 @@
+
+![MasterHead](https://media.licdn.com/dms/image/D5616AQFodXCC9eZPMg/profile-displaybackgroundimage-shrink_350_1400/0/1714899468329?e=1723075200&v=beta&t=jo6LXQZimSv6ZdcURgqmF1t17517AJ0jiLzGIXj7ZV8)
 <h1 align="center">Hi 👋, I'm Burri Sri Venkat Vivek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<!--
+<img align="right" alt="Coding" width="400"  src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsvvivek&label=Profile%20views&color=0e75b6&style=flat" alt="bsvvivek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsvvivekhttps://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsvvivek" alt="bsvvivek" /></a> </p>
 
